@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\u007858\\source\\repos\\BlueBank\\BlueBank\\BlueBank.csproj": {}
+    "C:\\Users\\u008143\\Desktop\\CtrlZ\\final-challenge-ctrz\\BlueBank\\BlueBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\u007858\\source\\repos\\BlueBank\\BlueBank\\BlueBank.csproj": {
+    "C:\\Users\\u008143\\Desktop\\CtrlZ\\final-challenge-ctrz\\BlueBank\\BlueBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\u007858\\source\\repos\\BlueBank\\BlueBank\\BlueBank.csproj",
+        "projectUniqueName": "C:\\Users\\u008143\\Desktop\\CtrlZ\\final-challenge-ctrz\\BlueBank\\BlueBank.csproj",
         "projectName": "BlueBank",
-        "projectPath": "C:\\Users\\u007858\\source\\repos\\BlueBank\\BlueBank\\BlueBank.csproj",
-        "packagesPath": "C:\\Users\\u007858\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\u007858\\source\\repos\\BlueBank\\BlueBank\\obj\\",
+        "projectPath": "C:\\Users\\u008143\\Desktop\\CtrlZ\\final-challenge-ctrz\\BlueBank\\BlueBank.csproj",
+        "packagesPath": "C:\\Users\\u008143\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\u008143\\Desktop\\CtrlZ\\final-challenge-ctrz\\BlueBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\u007858\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\u008143\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
